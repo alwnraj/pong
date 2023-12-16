@@ -1,2 +1,4 @@
-# pong
-Pong game made using pygame
+# Pong
+Pong game made using pygame.
+
+Skills learned: OOP principles
